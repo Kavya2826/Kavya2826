@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey there! 👋 I'm Kavya Sahu
 
-<!--
-**Kavya2826/Kavya2826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Backend Developer
 
-Here are some ideas to get you started:
+I'm an MCA student passionate about software development, problem-solving, and building things that work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on **Backend Development**, exploring server-side technologies, databases, and building practical projects to strengthen my development skills.
+
+---
+
+### 🚀 What I'm up to
+
+- 🌱 Learning **Node.js, Express.js, and PostgreSQL**
+- 🔭 Building projects to strengthen my backend development skills
+- 💡 Exploring database management and REST API development
+- 🎯 Working towards becoming a Backend Developer
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Currently Exploring**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Technologies**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🤝 Let's Connect
+
+I'm always open to connecting with fellow developers, collaborating on projects, and learning new things.
+
+📧 **Email:** [kavyasahu2826@gmail.com](mailto:kavyasahu2826@gmail.com)
+
+---
+
+*Building, learning, and improving — one project at a time.* 🚀
