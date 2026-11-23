@@ -42,7 +42,7 @@ Currently focusing on **Backend Development**, exploring server-side technologie
 
 I'm always open to connecting with fellow developers, collaborating on projects, and learning new things.
 
-📧 **Email:** [kavyasahu2826@gmail.com](mailto:kavyasahu2826@gmail.com)
+📧 **Email:** [kavyasahu231@gmail.com](mailto:kavyasahu231@gmail.com)
 
 ---
 
